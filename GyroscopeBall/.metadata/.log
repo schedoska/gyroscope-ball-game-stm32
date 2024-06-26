@@ -1,0 +1,50 @@
+!SESSION 2023-04-30 10:48:32.216 -----------------------------------------------
+eclipse.buildId=Version 1.4.0
+java.version=1.8.0_252
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-04-30 10:49:11.353
+!MESSAGE Log4j initialized with config file C:\Users\chedo\OneDrive\Pulpit\stm32_projekt\PSZ_Sterowniki_Robotow_Projekt\BallGameGyro\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-04-30 10:49:20.964
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2023-04-30 10:49:21.597
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+!SESSION 2023-04-30 10:50:43.423 -----------------------------------------------
+eclipse.buildId=Version 1.4.0
+java.version=1.8.0_252
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Framework arguments:  C:\Users\chedo\OneDrive\Pulpit\stm32_projekt\PSZ_Sterowniki_Robotow_Projekt\BallGameGyro\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\chedo\OneDrive\Pulpit\stm32_projekt\PSZ_Sterowniki_Robotow_Projekt\BallGameGyro\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-04-30 10:50:52.378
+!MESSAGE Log4j initialized with config file C:\Users\chedo\OneDrive\Pulpit\stm32_projekt\PSZ_Sterowniki_Robotow_Projekt\BallGameGyro\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-04-30 10:51:02.259
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2023-04-30 10:51:15.805
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+!SESSION 2023-04-30 10:52:15.236 -----------------------------------------------
+eclipse.buildId=Version 1.4.0
+java.version=1.8.0_252
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Framework arguments:  C:\Users\chedo\OneDrive\Pulpit\stm32_projekt\PSZ_Sterowniki_Robotow_Projekt\BallGameGyro\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\chedo\OneDrive\Pulpit\stm32_projekt\PSZ_Sterowniki_Robotow_Projekt\BallGameGyro\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-04-30 10:52:25.890
+!MESSAGE Log4j initialized with config file C:\Users\chedo\OneDrive\Pulpit\stm32_projekt\PSZ_Sterowniki_Robotow_Projekt\BallGameGyro\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-04-30 10:52:37.397
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2023-04-30 10:52:45.938
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.core.jobs 2 2 2023-04-30 10:52:48.656
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ecf.filetransfer.FileTransferJob
